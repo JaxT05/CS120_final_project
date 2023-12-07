@@ -2,7 +2,7 @@
 Instructions: Win this turn-based combat battle by clicking fight, heal, or cast. 
 Goal Summary: My main goal was to create a turn-based combat system with visual elements and an easy user interface. A smaller (unaccomplished) goal was to create a tiny overworld to go along with it. 
 Technologies: SimpleGE, Pygame, Random + “characterdata”, which I created to store a basic build for a combat character 
-- Citations – 
+Citations – 
 Graphics: 
 Dragon - https://opengameart.org/content/dragons
 Background – Me (Jax)
